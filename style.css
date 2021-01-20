@@ -1,0 +1,23 @@
+body {
+  background-color: #1e434c;
+  color: #c99e10;
+}
+
+h1 {
+  text-align: center;
+}
+
+.interface {
+  width: 100%;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.yourNumber {
+  font-size: 60px;
+  display: block;
+  height: 100px;
+}
